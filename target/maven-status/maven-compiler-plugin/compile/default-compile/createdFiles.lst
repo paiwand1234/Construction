@@ -1,0 +1,10 @@
+com\mvcspring\controller\UserController.class
+com\mvcspring\utils\DatabaseConnection.class
+com\mvcspring\DAO\UserDAO.class
+com\mvcspring\DAO\UserDAO$UserRowMapper.class
+com\mvcspring\interfaces\CRUDController.class
+com\mvcspring\controller\Views.class
+com\mvcspring\interfaces\CRUDDao.class
+com\mvcspring\config\FileUploadConfig.class
+com\mvcspring\config\WebConfig.class
+com\mvcspring\models\User.class
